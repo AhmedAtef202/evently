@@ -19,23 +19,17 @@ Users can create and manage events, browse by date & category, and enjoy multi-l
 
 ## 📸 Screenshots
 
-### Login Screen
-![Login Screen](screenshots/login_screen.jpeg)
+<p float="left" align="center">
+  <img src="screenshots/login_screen.jpeg" width="220" height="450" />
+  <img src="screenshots/sign_up_screen.jpeg" width="220" height="450" />
+  <img src="screenshots/home_screen.jpeg" width="220" height="450" />
+</p>
 
-### Sign Up Screen
-![Sign Up Screen](screenshots/sign_up_screen.jpeg)
-
-### Home Screen
-![Home Screen](screenshots/home_screen.jpeg)
-
-### Fav Screen
-![Fav Tab](screenshots/fav_tab.jpeg)
-
-### Create Event
-![Create Event](screenshots/create_event.jpeg)
-
-### edit Event
-![Edit Event](screenshots/edit_event.jpeg)
+<p float="left" align="center">
+  <img src="screenshots/fav_tab.jpeg" width="220" height="450" />
+  <img src="screenshots/create_event.jpeg" width="220" height="450" />
+  <img src="screenshots/edit_event.jpeg" width="220" height="450" />
+</p>
 
 ---
 
